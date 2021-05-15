@@ -4,6 +4,7 @@ Add a landing page to let visitors know when it is a referral link.
 ## Description
 It's important to disclose referral/affiliate links, according to FTC guidelines and to build general trust with your visitors.
 
+[![Mentioned in Awesome YOURLS](https://awesome.re/mentioned-badge.svg)](https://github.com/YOURLS/awesome-yourls/)
 [![Github Sponsors](https://img.shields.io/badge/sponsors-4-green.svg)](https://github.com/sponsors/telepathics)
 
 ## Installation
